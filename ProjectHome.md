@@ -1,0 +1,1 @@
+A set of scripts that automate the calibration of coarse-grain potentials to fit the structural distributions of an all-atom model.  Uses the LAMMPS molecular dynamics code.
